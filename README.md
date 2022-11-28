@@ -1,4 +1,6 @@
 # Wordle_Bot
 Wordle script to filter possible answers.
 
-feel free to break and or fix.
+Feel free to break and or fix.
+
+<Line 6> needs to be given the location of its word list before use. 
