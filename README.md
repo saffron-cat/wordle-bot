@@ -1,5 +1,5 @@
 # Wordle_Bot
-Wordle script to filter possible answers.
+Python script to filter possible answers.
 
 Feel free to break and or fix.
 
