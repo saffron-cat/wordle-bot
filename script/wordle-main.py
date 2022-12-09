@@ -3,7 +3,7 @@
 # holds list of 5 letter possible answers
 filt_list = []
 try:
-    with open('/Users/gray/PycharmProjects/pythonProject/Wordle_bot/Wordle Bot/5LA.txt', 'r') as answer_file:
+    with open('~/python/script/5LA.txt', 'r') as answer_file:
         for line in answer_file:
             filt_list.append(line.strip())
 except FileNotFoundError:
